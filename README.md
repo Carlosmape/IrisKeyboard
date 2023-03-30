@@ -1,4 +1,4 @@
-# IrisKeyboard (rev. 2)  
+# Iris Splitted Keyboard (rev. 2)  
 Iris Splitted Keyboard (rev. 2) spanish layout configuration  
 [ES Layout (pdf)](https://github.com/Carlosmape/IrisKeyboard/blob/main/img/layers.pdf)  
 [Dvorak ES Layout (pdf)](https://github.com/Carlosmape/IrisKeyboard/blob/main/img/layersDvorak.pdf)  
